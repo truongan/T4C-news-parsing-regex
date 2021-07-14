@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <div class="accordion" id="accordionExample">
+			<div class="accordion-item">
+				<h2 class="accordion-header" id="headingOne">
+					<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+						Mục đích
+					</button>
+				</h2>
+				<div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+					<div class="accordion-body">
+						Mục đích: rút trích thông tin về số ca nhiễm (F0) từ các nguồn tin của VNE
+					</div>
+				</div>
+			</div>
+			<div class="accordion-item">
+				<h2 class="accordion-header" id="headingTwo">
+					<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+						Sample Input
+					</button>
+				</h2>
+				<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+					<div class="accordion-body">
+						<ul>
+							<li><p><a href="https://vnexpress.net/them-609-ca-covid-19-tong-so-ca-trong-ngay-vuot-2-000-4308478.html">https://vnexpress.net/them-609-ca-covid-19-tong-so-ca-trong-ngay-vuot-2-000-4308478.html</a></p>
+							<pre><code>Số ca mới nâng tổng số ca nhiễm tại TP HCM lên <span class="hljs-number">14.776</span>, Bắc Ninh <span class="hljs-number">1.667</span>, Bình Dương <span class="hljs-number">1.628</span>, Đồng Tháp <span class="hljs-number">618</span>, Hà Nội <span class="hljs-number">533</span>, Tiền Giang <span class="hljs-number">470</span>, Phú Yên <span class="hljs-number">466</span>, Đà Nẵng <span class="hljs-number">270</span>, Khánh Hòa <span class="hljs-number">215</span>, Quảng Ngãi <span class="hljs-number">177</span>, An Giang <span class="hljs-number">90</span>, Trà Vinh <span class="hljs-number">35</span>, Bình Phước <span class="hljs-number">29</span>, Hậu Giang <span class="hljs-number">22</span>, Sóc Trăng <span class="hljs-number">18</span>, Thanh Hóa <span class="hljs-number">17</span>, Nam Định <span class="hljs-number">9</span>, Đăk Nông <span class="hljs-number">3</span>
+							</code></pre></li>
+							<li><p><a href="https://vnexpress.net/them-466-ca-covid-19-tp-hcm-vuot-15-000-ca-4308540.html">https://vnexpress.net/them-466-ca-covid-19-tp-hcm-vuot-15-000-ca-4308540.html</a></p>
+							
+							<pre><code><span class="hljs-number">466</span> ca mới <span class="hljs-built_in">t</span>ừ số <span class="hljs-number">32200</span>-<span class="hljs-number">32665</span>. Trong đó, <span class="hljs-number">465</span> ca ghi nhậ<span class="hljs-built_in">n</span> <span class="hljs-built_in">t</span>ạ<span class="hljs-symbol">i:</span> TP HCM (<span class="hljs-number">365</span>), Long An (<span class="hljs-number">52</span>), Vĩnh Long (<span class="hljs-number">23</span>), Đồng Nai (<span class="hljs-number">12</span>), Phú Yê<span class="hljs-built_in">n</span> (<span class="hljs-number">7</span>), <span class="hljs-built_in">T</span>ây Ninh (<span class="hljs-number">5</span>), Hà <span class="hljs-built_in">N</span>ội (<span class="hljs-number">1</span>). Trong số <span class="hljs-built_in">n</span>ày, <span class="hljs-number">416</span> ca được phá<span class="hljs-built_in">t</span> hiệ<span class="hljs-built_in">n</span> ở khu cách ly hoặc khu đã được phong <span class="hljs-built_in">t</span>ỏa.
+							</span>.
+							</code></pre>
+						</li>
+					</ul>
+					</div>
+				</div>
+			</div>
+			<div class="accordion-item">
+				<h2 class="accordion-header" id="headingThree">
+					<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+						Output
+					</button>
+				</h2>
+				<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+					<div class="accordion-body">
+						<span class = "lead">Số ca của mỗi tỉnh, ví dụ:</span>
+						<pre><code>
+ghi nhận ở , 58
+TP HCM , 17.239
+Bắc Giang , 5.723
+Bình Dương , 1.814
+Bắc Ninh , 1.671
+Đồng Tháp , 649
+Hà Nội , 541
+Long An , 523
+Phú Yên , 510
+Tiền Giang , 470
+Đồng Nai , 333
+Đà Nẵng , 274
+							
+							</code></pre>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="mb-3">
+			<label for="text" class="form-label">Paste  đoạn text cần trích vào đây</label>
+			<textarea class="form-control" id="text" rows="3"></textarea>
+		</div>
+
+		<button type="button" class="btn btn-primary" onclick="parse();">Parse </button>
+    <!-- Optional JavaScript; choose one of the two! -->
+		<table class="table">
+			<thead>
+				<tr>
+					<th>Địa danh</th>
+					<th>Số ca</th>
+				</tr>
+			</thead>
+			<tbody id="table_body">
+				
+			</tbody>
+		</table>
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    -->
+		<script>
+			function parse(){
+				text = document.getElementById('text').value;
+				console.log(text);
+				let re = /(?:(?:,|(?:tại)) ([^\d\(]+) \((\s?\d+\s?)\))/g;
+
+				ar = [...text.matchAll(re)];
+				console.log(ar);
+
+				tbody = document.getElementById('table_body');
+				ar.forEach(i => {
+					r = tbody.insertRow(0);
+					r.insertCell(0).innerHTML=i[1];
+					r.insertCell(1).innerHTML=i[2];
+				});
+			}
+		</script>
+  </body>
+</html>
