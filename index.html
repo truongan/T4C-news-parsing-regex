@@ -120,6 +120,7 @@ Tiền Giang , 470
 				let re = /(?:(?:,|(?:tại)) ([^\d\(]+) \((\s?\d+\s?)\))/g;
 
 				ar = [...text.matchAll(re)];
+				ar.reverse()
 				console.log(ar);
 
 				tbody = document.getElementById('table_body');
