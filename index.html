@@ -117,7 +117,7 @@ Tiền Giang , 470
 			function parse(){
 				text = document.getElementById('text').value;
 				console.log(text);
-				let re = /(?:(?:,|(?:tại))\s*([^\d\(]+) \((\s?\d+\s?)\))/g;
+				let re = /(?:(?:,|(?:tại)):?\s*([^\d\(]+) \((\s?\d+\s?)\))/g;
 
 				ar = [...text.matchAll(re)];
 				ar.reverse()
