@@ -138,16 +138,17 @@ Tiền Giang , 470
 	</div>
 </div>
 		<script>
-			document.getElementById('date_input').value = new Intl.DateTimeFormat('en-CA').format(new Date())
-			function parse(){
-				var time_of_day = [13, 19, 24];
-				current_hour = new Date().getHours();
-				for(var i = 0; i < time_of_day.length; i++){
-					if (current_hour < time_of_day[i]){
-						document.getElementById('time_of_day').selectedIndex = i;
-						break;
-					}
+			document.getElementById('date_input').value = new Intl.DateTimeFormat('en-CA').format(new Date());
+			var time_of_day = [13, 19, 24];
+			current_hour = new Date().getHours();
+			for(var i = 0; i < time_of_day.length; i++){
+				if (current_hour < time_of_day[i]){
+					document.getElementById('time_of_day').selectedIndex = i;
+					break;
 				}
+			}
+			function parse(){
+
 
 				text = document.getElementById('text').value;
 				console.log(text);
