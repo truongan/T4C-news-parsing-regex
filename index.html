@@ -84,19 +84,32 @@ Tiền Giang , 470
 			</div>
 		</div>
 
-		<div class="form">
+		<div class="mb-3">
+			<label for="text" class="form-label">Paste  đoạn text cần trích vào đây</label>
+			<textarea class="form-control" id="text" rows="3"></textarea>
+		</div>
+		<div class="row">
+			<div class="col-6">
+				
+				<div class="form-group">
+					<label for="date_input">date</label>
+					<input type="date"
+					class="form-control" name="date_input" id="date_input" aria-describedby="date input" placeholder="date">
+					<small id="date input" class="form-text text-muted">Help text</small>
+				</div>
 			</div>
-			<div class="mb-3">
-				<label for="text" class="form-label">Paste  đoạn text cần trích vào đây</label>
-				<textarea class="form-control" id="text" rows="3"></textarea>
+			<div class="col-6">
+
+				<div class="form-group">
+				  <label for="time_of_day">Buổi</label>
+				  <select class="form-control" name="time_of_day" id="time_of_day">
+					<option>Sáng</option>
+					<option>Trưa</option>
+					<option>Tối</option>
+				  </select>
+				</div>
 			</div>
-		
-			<div class="form-group">
-			<label for="date_input">date</label>
-			<input type="date"
-				class="form-control" name="date_input" id="date_input" aria-describedby="date input" placeholder="date">
-			<small id="date input" class="form-text text-muted">Help text</small>
-			</div>
+		</div>
 			
 		<button type="button" class="btn btn-primary" onclick="parse();">Parse </button>
     <!-- Optional JavaScript; choose one of the two! -->
@@ -106,6 +119,7 @@ Tiền Giang , 470
 					<th>Date</th>
 					<th>Địa danh</th>
 					<th>Số ca</th>
+					<th>Buổi</th>
 				</tr>
 			</thead>
 			<tbody id="table_body">
@@ -126,6 +140,15 @@ Tiền Giang , 470
 		<script>
 			document.getElementById('date_input').value = new Intl.DateTimeFormat('en-CA').format(new Date())
 			function parse(){
+				var time_of_day = [13, 19, 24];
+				current_hour = new Date().getHours();
+				for(var i = 0; i < time_of_day.length; i++){
+					if (current_hour < time_of_day[i]){
+						document.getElementById('time_of_day').selectedIndex = i;
+						break;
+					}
+				}
+
 				text = document.getElementById('text').value;
 				console.log(text);
 				let re = /(?:(?:,|(?:tại)):?\s*([^\d\(]+) \((\s?\d+\s?)\))/g;
@@ -140,6 +163,7 @@ Tiền Giang , 470
 					r.insertCell(0).innerHTML=document.getElementById('date_input').value;
 					r.insertCell(1).innerHTML=i[1];
 					r.insertCell(2).innerHTML=i[2];
+					r.insertCell(3).innerHTML=document.getElementById('time_of_day').value;
 				});
 			}
 		</script>
