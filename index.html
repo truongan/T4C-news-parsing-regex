@@ -113,6 +113,10 @@ Tiền Giang , 470
 			
 		<button type="button" class="btn btn-primary" onclick="parse();">Parse </button>
     <!-- Optional JavaScript; choose one of the two! -->
+		<div >
+			<pre><code  id="parse_text"></code>
+			</pre>
+		</div>
 		<table class="table">
 			<thead>
 				<tr>
@@ -156,10 +160,20 @@ Tiền Giang , 470
 
 				ar = [...text.matchAll(re)];
 				ar.reverse()
-				console.log(ar);
 
 				tbody = document.getElementById('table_body');
 				ar.forEach(i => {
+					document.getElementById('parse_text').innerHTML 
+						+= document.getElementById('date_input').value 
+						+ "," 
+						+ i[1]
+						+ ","
+						+ i[2]
+						+ ","
+						+ document.getElementById('time_of_day').value
+						+ "\n"
+						;
+
 					r = tbody.insertRow(0);
 					r.insertCell(0).innerHTML=document.getElementById('date_input').value;
 					r.insertCell(1).innerHTML=i[1];
