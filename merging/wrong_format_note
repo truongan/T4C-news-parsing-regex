@@ -1,0 +1,2 @@
+20521273 - Dùng định dạng ngày tháng dd/mm/yyyy không phải định dạng iso 8601 cũng như định dạng MM/DD/YYYY được gợi ý
+19521872 - Dư một khoảng trắng ở đầu mỗi dòng => dữ liệu ngày tháng năm không parse được

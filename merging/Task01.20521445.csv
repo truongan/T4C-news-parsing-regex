@@ -1,0 +1,156 @@
+date,tinh,number,
+2021-06-15,Bắc Giang,138,Tối
+2021-06-15,TP. Hồ Chí Minh,38,Tối
+2021-06-15,Bắc Ninh,21,Tối
+2021-06-15,Bình Dương,12,Tối
+2021-06-15,Lạng Sơn,1,Tối
+2021-06-15,Bắc Giang,69,Trưa
+2021-06-15,TP. Hồ Chí Minh,29,Trưa
+2021-06-15,Bắc Ninh,15,Trưa
+2021-06-15,Hà Tĩnh,3,Trưa
+2021-06-15,Lạng Sơn,1,Trưa
+2021-06-15,Hà Nội,1,Trưa
+2021-06-15,Bắc Giang,28,Sáng
+2021-06-15,TP. Hồ Chí Minh,23,Sáng
+2021-06-15,Bắc Ninh,19,Sáng
+2021-06-14,TP. Hồ Chí Minh,30,Trưa
+2021-06-14,Bắc Giang,23,Trưa
+2021-06-14,Tiền Giang,14,Trưa
+2021-06-14,Hà Tĩnh,10,Trưa
+2021-06-14,Bắc Ninh,9,Trưa
+2021-06-14,Bình Dương,4,Trưa
+2021-06-14,Bắc Kạn,1,Trưa
+2021-06-14,Bắc Giang,69,Trưa
+2021-06-14,TP. Hồ Chí Minh,26,Trưa
+2021-06-14,Hà Nội,4,Trưa
+2021-06-14,Hà Tĩnh,1,Trưa
+2021-06-14,TP. Hồ Chí Minh,26,Tối
+2021-06-14,Bắc Giang,29,Tối
+2021-06-14,Bắc Ninh,8,Tối
+2021-06-14,Hà Tĩnh,11,Tối
+2021-06-14,Nghệ An,1,Tối
+2021-06-13,Bắc Ninh,34,Tối
+2021-06-13,Bắc Giang,32,Tối
+2021-06-13,TP. Hồ Chí Minh,25,Tối
+2021-06-13,Lạng Sơn,2,Tối
+2021-06-13,Phú Thọ,1,Tối
+2021-06-13,Hà Nội,1,Tối
+2021-06-13,Bắc Giang,64,Trưa
+2021-06-13,TP Hồ Chí Minh,26,Trưa
+2021-06-13,Bắc Ninh,4,Trưa
+2021-06-13,Hà Nội,1,Trưa
+2021-06-13,TP. Hồ Chí Minh,44,Tối
+2021-06-13,Bắc Giang,33,Tối
+2021-06-13,Bắc Ninh,16,Tối
+2021-06-13,Hà Tĩnh,9,Tối
+2021-06-13,Bình Dương,1,Tối
+2021-06-12,Bắc Giang,29,Sáng
+2021-06-12,TP. Hồ Chí Minh,20,Sáng
+2021-06-12,Tiền Giang,10,Sáng
+2021-06-12,Bắc Ninh,8,Sáng
+2021-06-12,Lạng Sơn,1,Sáng
+2021-06-12,Bắc Giang,55,Trưa
+2021-06-12,TP. Hồ Chí Minh,20,Trưa
+2021-06-12,Bắc Ninh,10,Trưa
+2021-06-12,Hà Tĩnh,3,Trưa
+2021-06-12,TP. Hồ Chí Minh,44,Tối
+2021-06-12,Bắc Giang,41,Tối
+2021-06-12,Bắc Ninh,16,Tối
+2021-06-12,Hà Tĩnh,2,Tối
+2021-06-11,Bắc Giang,23,Sáng
+2021-06-11,TP. Hồ Chí Minh,10,Sáng
+2021-06-11,Bắc Ninh,4,Sáng
+2021-06-11,Hà Tĩnh,4,Sáng
+2021-06-11,Bắc Giang,45,Trưa
+2021-06-11,Hồ Chí Minh,18,Trưa
+2021-06-11,Bắc Ninh,9,Trưa
+2021-06-11,Hà Nội,5,Trưa
+2021-06-11,Hà Tĩnh,4,Trưa
+2021-06-11,Bắc Giang,27,Tối
+2021-06-11,TP. Hồ Chí Minh,20,Tối
+2021-06-11,Bắc Ninh,15,Tối
+2021-06-11,Hà Nội,1,Tối
+2021-06-10,TP. Hồ Chí Minh,26,Sáng
+2021-06-10,Bắc Ninh,23,Sáng
+2021-06-10,Bắc Giang,16,Sáng
+2021-06-10,Hà Tĩnh,1,Sáng
+2021-06-10,Bắc Giang,52,Trưa
+2021-06-10,TP. Hồ Chí Minh,15,Trưa
+2021-06-10,Bắc Ninh,10,Trưa
+2021-06-10,Hà Nội,4,Trưa
+2021-06-10,Hà Tĩnh,2,Trưa
+2021-06-10,Lạng Sơn,1,Trưa
+2021-06-10,Hải Dương,1,Trưa
+2021-06-10,Long An,1,Trưa
+2021-06-10,Bắc Giang,23,Tối
+2021-06-10,TP. Hồ Chí Minh,20,Tối
+2021-06-10,Bắc Ninh,12,Tối
+2021-06-10,Tiền Giang,2,Tối
+2021-06-10,Hà Tĩnh,2,Tối
+2021-06-09,Bắc Giang,24,Sáng
+2021-06-09,Bắc Ninh,17,Sáng
+2021-06-09,TP. Hồ Chí Minh,20,Trưa
+2021-06-09,Bắc Ninh,6,Trưa
+2021-06-09,Hà Tĩnh,3,Trưa
+2021-06-09,Hà Nội,1,Trưa
+2021-06-09,TP. Hồ Chí Minh,20,Tối
+2021-06-09,Bắc Giang,19,Tối
+2021-06-09,Bắc Ninh,12,Tối
+2021-06-09,Hà Nội,4,Tối
+2021-06-09,Lạng Sơn,1,Tối
+2021-06-09,Hà Nội,1,Tối
+2021-06-08,Bắc Giang,22,Sáng
+2021-06-08,TP. Hồ Chí Minh,15,Sáng
+2021-06-08,Bắc Ninh,6,Sáng
+2021-06-08,Bắc Giang,55,Trưa
+2021-06-08,TP. Hồ Chí Minh,10,Trưa
+2021-06-08,Bắc Ninh,4,Trưa
+2021-06-08,Lạng Sơn,5,Trưa
+2021-06-08,Hà Nội,1,Trưa
+2021-06-08,Bắc Giang,21,Tối
+2021-06-08,Bắc Ninh,15,Tối
+2021-06-08,Hồ Chí Minh,14,Tối
+2021-06-08,Hà Nội,2,Tối
+2021-06-08,Hà Tĩnh,1,Tối
+2021-06-07,Bắc Giang,24,Sáng
+2021-06-07,Hồ Chí Minh,12,Sáng
+2021-06-07,Bắc Ninh,6,Sáng
+2021-06-07,Hà Nam,2,Sáng
+2021-06-07,Bắc Giang,68,Trưa
+2021-06-07,Hồ Chí Minh,14,Trưa
+2021-06-07,Lạng Sơn,7,Trưa
+2021-06-07,Hà Tĩnh,2,Trưa
+2021-06-07,Hà Nội,1,Trưa
+2021-06-07,Bắc Giang,30,Tối
+2021-06-07,Bắc Ninh,23,Tối
+2021-06-07,TP. Hồ Chí Minh,20,Tối
+2021-06-07,Bình Dương,1,Tối
+2021-06-07,Hà Nội,1,Tối
+2021-06-06,Bắc Giang,21,Sáng
+2021-06-06,TP. Hồ Chí Minh,10,Sáng
+2021-06-06,Bắc Ninh,8,Sáng
+2021-06-06,Bắc Giang,69,Trưa
+2021-06-06,Bắc Ninh,14,Trưa
+2021-06-06,TP. Hồ Chí Minh,10,Trưa
+2021-06-06,Hà Tĩnh,5,Trưa
+2021-06-06,Bình Dương,2,Trưa
+2021-06-06,Bắc Giang,31,Tối
+2021-06-06,Bắc Ninh,18,Tối
+2021-06-06,TP. Hồ Chí Minh,11,Tối
+2021-06-05,Bắc Giang,45,Sáng
+2021-06-05,Bắc Ninh,19,Sáng
+2021-06-05,TP. Hồ Chí Minh,10,Sáng
+2021-06-05,Hà Nam,1,Sáng
+2021-06-05,Bắc Giang,65,Trưa
+2021-06-05,TP. Hồ Chí Minh,15,Trưa
+2021-06-05,Bắc Ninh,8,Trưa
+2021-06-05,Hà Tĩnh,2,Trưa
+2021-06-05,Tiền Giang,1,Trưa
+2021-06-05,Bắc Giang,39,Tối
+2021-06-05,Bắc Ninh,28,Tối
+2021-06-05,TP. Hồ Chí Minh,6,Tối
+2021-06-05,Vĩnh Phúc,2,Tối
+2021-06-05,Bình Dương,2,Tối
+2021-06-05,Lạng Sơn,1,Tối
+2021-06-05,Hà Nội,1,Tối
+2021-06-05,Hà Nội,1,Tối

@@ -1,0 +1,491 @@
+Date,Tỉnh,Number,Buổi
+2021-07-05,TP. Hồ Chí Minh,175,Sáng
+2021-07-05,Đồng Tháp,100,Sáng
+2021-07-05,Phú Yên,23,Sáng
+2021-07-05,Hưng Yên,9,Sáng
+2021-07-05,Khánh Hòa,8,Sáng
+2021-07-05,An Giang,6,Sáng
+2021-07-05,Long An,2,Sáng
+2021-07-05,Bắc Ninh,2,Sáng
+2021-07-05,Lạng Sơn,1,Sáng
+2021-07-05,Đồng Nai,1,Sáng
+2021-07-05,Sóc Trăng,1,Sáng
+2021-07-05,TP. Hồ Chí Minh,196,Trưa
+2021-07-05,Bình Dương,17,Trưa
+2021-07-05,Long An,13,Trưa
+2021-07-05,Phú Yên,6,Trưa
+2021-07-05,Bắc Giang,4,Trưa
+2021-07-05,Vĩnh Long,3,Trưa
+2021-07-05,Đồng Tháp,3,Trưa
+2021-07-05,Quảng Ngãi,2,Trưa
+2021-07-05,Hà Tĩnh,2,Trưa
+2021-07-05,Bắc Ninh,1,Trưa
+2021-07-05,Trà Vinh,12,Tối
+2021-07-05,Bà Rịa - Vũng Tàu,1,Tối
+2021-07-05,TP. Hồ Chí Minh,270,Tối
+2021-07-05,Bình Dương,114,Tối
+2021-07-05,Đồng Tháp,62,Tối
+2021-07-05,Tiền Giang,11,Tối
+2021-07-05,Phú Yên,11,Tối
+2021-07-05,Khánh Hòa,10,Tối
+2021-07-05,Đồng Nai,8,Tối
+2021-07-05,An Giang,6,Tối
+2021-07-05,Bình Phước,4,Tối
+2021-07-05,Bà Rịa – Vũng Tàu,4,Tối
+2021-07-05,Bình Định,3,Tối
+2021-07-05,Tây Ninh,3,Tối
+2021-07-05,Bắc Giang,3,Tối
+2021-07-05,Quảng Ngãi,2,Tối
+2021-07-05,Bắc Ninh,1,Tối
+2021-07-05,Nghệ An,1,Tối
+2021-07-05,Lâm Đồng,1,Tối
+2021-07-06,TP. Hồ Chí Minh,230,Sáng
+2021-07-06,Phú Yên,18,Sáng
+2021-07-06,Đồng Nai,11,Sáng
+2021-07-06,An Giang,10,Sáng
+2021-07-06,Hưng Yên,5,Sáng
+2021-07-06,Vĩnh Long,2,Sáng
+2021-07-06,Hà Nam,1,Sáng
+2021-07-06,Quảng Nam,4,Trưa
+2021-07-06,Kiên Giang,2,Trưa
+2021-07-06,TP. Hồ Chí Minh,209,Trưa
+2021-07-06,Hà Nội,10,Trưa
+2021-07-06,Phú Yên,7,Trưa
+2021-07-06,Long An,6,Trưa
+2021-07-06,Thanh Hoá,4,Trưa
+2021-07-06,Bắc Giang,3,Trưa
+2021-07-06,Lạng Sơn,1,Trưa
+2021-07-06,Bắc Ninh,1,Trưa
+2021-07-06,Hà Nam,1,Trưa
+2021-07-06,Tây Ninh,2,Tối
+2021-07-06,Quảng Nam,1,Tối
+2021-07-06,Hà Nội,1,Tối
+2021-07-06,TP. Hồ Chí Minh,271,Tối
+2021-07-06,Đồng Tháp,99,Tối
+2021-07-06,Bình Dương,92,Tối
+2021-07-06,Phú Yên,16,Tối
+2021-07-06,Long An,8,Tối
+2021-07-06,Nghệ An,3,Tối
+2021-07-06,Bắc Giang,2,Tối
+2021-07-06,Bắc Ninh,2,Tối
+2021-07-06,Hà Nội,2,Tối
+2021-07-06,Trà Vinh,2,Tối
+2021-07-06,Lạng Sơn,1,Tối
+2021-07-06,Hưng Yên,1,Tối
+2021-07-06,An Giang,1,Tối
+2021-07-07,TP. Hồ Chí Minh,270,Sáng
+2021-07-07,Phú Yên,2,Sáng
+2021-07-07,Đồng Nai,2,Sáng
+2021-07-07,Bà Rịa – Vũng Tàu,1,Sáng
+2021-07-07,Hà Tĩnh,1,Sáng
+2021-07-07,TP. Hồ Chí Minh,347,Trưa
+2021-07-07,Long An,19,Trưa
+2021-07-07,Quảng Ngãi,13,Trưa
+2021-07-07,Bắc Ninh,6,Trưa
+2021-07-07,Phú Yên,4,Trưa
+2021-07-07,Trà Vinh,3,Trưa
+2021-07-07,Bắc Giang,3,Trưa
+2021-07-07,Nghệ An,2,Trưa
+2021-07-07,Cà Mau,1,Trưa
+2021-07-07,Bà Rịa - Vũng Tàu,1,Trưa
+2021-07-07,Đắk Lắk,1,Trưa
+2021-07-07,Tây Ninh,8,Tối
+2021-07-07,An Giang,1,Tối
+2021-07-07,TP. Hồ Chí Minh,149,Tối
+2021-07-07,Bình Dương,60,Tối
+2021-07-07,Khánh Hòa,41,Tối
+2021-07-07,Vĩnh Long,24,Tối
+2021-07-07,Tiền Giang,18,Tối
+2021-07-07,Phú Yên,8,Tối
+2021-07-07,Vĩnh Phúc,5,Tối
+2021-07-07,Hưng Yên,5,Tối
+2021-07-07,Đồng Tháp,5,Tối
+2021-07-07,Hà Nội,3,Tối
+2021-07-07,Bắc Giang,2,Tối
+2021-07-07,Thanh Hóa,1,Tối
+2021-07-08,TP. Hồ Chí Minh,234,Sáng
+2021-07-08,Bình Dương,80,Sáng
+2021-07-08,TP. Hồ Chí Minh,200,Trưa
+2021-07-08,Đồng Tháp,91,Trưa
+2021-07-08,Phú Yên,13,Trưa
+2021-07-08,An Giang,11,Trưa
+2021-07-08,Quảng Ngãi,10,Trưa
+2021-07-08,Cà Mau,7,Trưa
+2021-07-08,Bắc Ninh,4,Trưa
+2021-07-08,Khánh Hòa,3,Trưa
+2021-07-08,Lâm Đồng,3,Trưa
+2021-07-08,Gia Lai,3,Trưa
+2021-07-08,Bắc Giang,3,Trưa
+2021-07-08,Bạc Liêu,2,Trưa
+2021-07-08,Trà Vinh,2,Trưa
+2021-07-08,Nghệ An,1,Trưa
+2021-07-08,Bình Định,1,Trưa
+2021-07-08,Hà Nội,1,Trưa
+2021-07-08,Khánh Hòa,3,Tối
+2021-07-08,Kiên Giang,2,Tối
+2021-07-08,Tây Ninh,2,Tối
+2021-07-08,TP. Hồ Chí Minh,481,Tối
+2021-07-08,Bình Dương,55,Tối
+2021-07-08,Khánh Hòa,25,Tối
+2021-07-08,Đồng Tháp,17,Tối
+2021-07-08,Vĩnh Long,17,Tối
+2021-07-08,Phú Yên,11,Tối
+2021-07-08,Bắc Giang,6,Tối
+2021-07-08,Cà Mau,4,Tối
+2021-07-08,Quảng Ngãi,4,Tối
+2021-07-08,Bắc Ninh,4,Tối
+2021-07-08,Hà Nội,4,Tối
+2021-07-08,Bình Phước,3,Tối
+2021-07-08,Hưng Yên,2,Tối
+2021-07-08,Tây Ninh,1,Tối
+2021-07-08,Hậu Giang,1,Tối
+2021-07-08,Kiên Giang,1,Tối
+2021-07-08,Bình Thuận,1,Tối
+2021-07-08,Bến Tre,1,Tối
+2021-07-09,Thái Bình,1,Sáng
+2021-07-09,An Giang,1,Sáng
+2021-07-09,TP. Hồ Chí Minh,350,Sáng
+2021-07-09,Long An,37,Sáng
+2021-07-09,Đồng Nai,15,Sáng
+2021-07-09,Phú Yên,6,Sáng
+2021-07-09,An Giang,5,Sáng
+2021-07-09,Khánh Hòa,4,Sáng
+2021-07-09,Bắc Ninh,3,Sáng
+2021-07-09,Vĩnh Phúc,1,Sáng
+2021-07-09,Gia Lai,1,Sáng
+2021-07-09,Bạc Liêu,1,Sáng
+2021-07-09,Hà Tĩnh,3,Trưa
+2021-07-09,Quảng Nam,2,Trưa
+2021-07-09,Kiên Giang,1,Trưa
+2021-07-09,TP. Hồ Chí Minh,479,Trưa
+2021-07-09,Bình Dương,66,Trưa
+2021-07-09,Đồng Nai,17,Trưa
+2021-07-09,Bắc Giang,9,Trưa
+2021-07-09,Trà Vinh,8,Trưa
+2021-07-09,Bắc Ninh,7,Trưa
+2021-07-09,Quảng Ngãi,7,Trưa
+2021-07-09,Bà Rịa - Vũng Tàu,4,Trưa
+2021-07-09,Hà Nội,2,Trưa
+2021-07-09,Vĩnh Phúc,1,Trưa
+2021-07-09,Bạc Liêu,1,Trưa
+2021-07-09,Lâm Đồng,1,Trưa
+2021-07-09,Thanh Hóa,1,Trưa
+2021-07-09,TP. Hồ Chí Minh,400,Tối
+2021-07-09,Long An,40,Tối
+2021-07-09,Tiền Giang,34,Tối
+2021-07-09,Đồng Tháp,32,Tối
+2021-07-09,Khánh Hòa,25,Tối
+2021-07-09,Phú Yên,22,Tối
+2021-07-09,Hưng Yên,8,Tối
+2021-07-09,Bình Dương,7,Tối
+2021-07-09,Cần Thơ,6,Tối
+2021-07-09,Bắc Ninh,5,Tối
+2021-07-09,Hậu Giang,4,Tối
+2021-07-09,Sóc Trăng,2,Tối
+2021-07-09,Đắk Nông,1,Tối
+2021-07-09,Bình Phước,1,Tối
+2021-07-09,Đà Nẵng,1,Tối
+2021-07-09,Nghệ An,1,Tối
+2021-07-09,Bắc Giang,1,Tối
+2021-07-10,Quảng Nam,2,Sáng
+2021-07-10,Tây Ninh,2,Sáng
+2021-07-10,Hà Nội,1,Sáng
+2021-07-10,TP. Hồ Chí Minh,520,Sáng
+2021-07-10,Đồng Nai,18,Sáng
+2021-07-10,Khánh Hòa,15,Sáng
+2021-07-10,Bà Rịa – Vũng Tàu,11,Sáng
+2021-07-10,An Giang,10,Sáng
+2021-07-10,Phú Yên,8,Sáng
+2021-07-10,Bình Phước,4,Sáng
+2021-07-10,Bến Tre,2,Sáng
+2021-07-10,Hà Nội,2,Sáng
+2021-07-10,Thanh Hóa,2,Sáng
+2021-07-10,Tây Ninh,1,Sáng
+2021-07-10,TP. Hồ Chí Minh,600,Trưa
+2021-07-10,Tiền Giang,75,Trưa
+2021-07-10,Đồng Tháp,50,Trưa
+2021-07-10,Vĩnh Long,26,Trưa
+2021-07-10,Sóc Trăng,7,Trưa
+2021-07-10,Hưng Yên,7,Trưa
+2021-07-10,Phú Yên,7,Trưa
+2021-07-10,Bắc Giang,4,Trưa
+2021-07-10,Trà Vinh,2,Trưa
+2021-07-10,Cà Mau,2,Trưa
+2021-07-10,Bắc Ninh,2,Trưa
+2021-07-10,Ninh Thuận,1,Trưa
+2021-07-10,Bạc Liêu,1,Trưa
+2021-07-10,Kiên Giang,1,Trưa
+2021-07-10,Bình Định,1,Trưa
+2021-07-10,Hà Tĩnh,1,Trưa
+2021-07-10,Thanh Hoá,1,Trưa
+2021-07-10,Thái Bình,1,Trưa
+2021-07-10,Hà Nam,1,Trưa
+2021-07-10,TP. Hồ Chí Minh,600,Trưa
+2021-07-10,Tiền Giang,75,Trưa
+2021-07-10,Đồng Tháp,50,Trưa
+2021-07-10,Vĩnh Long,26,Trưa
+2021-07-10,Sóc Trăng,7,Trưa
+2021-07-10,Hưng Yên,7,Trưa
+2021-07-10,Phú Yên,7,Trưa
+2021-07-10,Bắc Giang,4,Trưa
+2021-07-10,Trà Vinh,2,Trưa
+2021-07-10,Cà Mau,2,Trưa
+2021-07-10,Bắc Ninh,2,Trưa
+2021-07-10,Ninh Thuận,1,Trưa
+2021-07-10,Bạc Liêu,1,Trưa
+2021-07-10,Kiên Giang,1,Trưa
+2021-07-10,Bình Định,1,Trưa
+2021-07-10,Hà Tĩnh,1,Trưa
+2021-07-10,Thanh Hoá,1,Trưa
+2021-07-10,Thái Bình,1,Trưa
+2021-07-10,Hà Nam,1,Trưa
+2021-07-10,TP. Hồ Chí Minh,200,Tối
+2021-07-10,Bình Dương,140,Tối
+2021-07-10,Long An,33,Tối
+2021-07-10,Đồng Nai,19,Tối
+2021-07-10,Phú Yên,18,Tối
+2021-07-10,Quảng Ngãi,14,Tối
+2021-07-10,Khánh Hòa,13,Tối
+2021-07-10,Đồng Tháp,8,Tối
+2021-07-10,Hà Nội,5,Tối
+2021-07-10,Bình Phước,4,Tối
+2021-07-10,Tây Ninh,3,Tối
+2021-07-10,Bà Rịa – Vũng Tàu,1,Tối
+2021-07-10,Bình Định,1,Tối
+2021-07-10,Vĩnh Phúc,1,Tối
+2021-07-10,Thái Bình,1,Tối
+2021-07-11,TP. Hồ Chí Minh,443,Sáng
+2021-07-11,Tiền Giang,46,Sáng
+2021-07-11,Vĩnh Long,43,Sáng
+2021-07-11,Bình Dương,39,Sáng
+2021-07-11,Hậu Giang,9,Sáng
+2021-07-11,Bến Tre,7,Sáng
+2021-07-11,An Giang,7,Sáng
+2021-07-11,Phú Yên,4,Sáng
+2021-07-11,Bắc Ninh,3,Sáng
+2021-07-11,Bình Phước,2,Sáng
+2021-07-11,Cà Mau,1,Sáng
+2021-07-11,Quảng Nam,1,Sáng
+2021-07-11,Bạc Liêu,1,Sáng
+2021-07-11,TP. Hồ Chí Minh,600,Trưa
+2021-07-11,Bắc Giang,9,Trưa
+2021-07-11,Hà Nội,6,Trưa
+2021-07-11,Hưng Yên,3,Trưa
+2021-07-11,Bà Rịa - Vũng Tàu,3,Trưa
+2021-07-11,Ninh Thuận,2,Trưa
+2021-07-11,Hà Tĩnh,2,Trưa
+2021-07-11,Bình Thuận,2,Trưa
+2021-07-11,Bình Định,1,Trưa
+2021-07-11,Đắk Nông,1,Trưa
+2021-07-11,Lâm Đồng,1,Trưa
+2021-07-11,Hải Phòng,1,Trưa
+2021-07-11,Thanh Hóa,1,Trưa
+2021-07-11,Kiên Giang,2,Tối
+2021-07-11,Khánh Hòa,2,Tối
+2021-07-11,Bình Định,1,Tối
+2021-07-11,Ninh Bình,1,Tối
+2021-07-11,TP. Hồ Chí Minh,354,Tối
+2021-07-11,Bình Dương,195,Tối
+2021-07-11,Đồng Tháp,50,Tối
+2021-07-11,Long An,46,Tối
+2021-07-11,Phú Yên,32,Tối
+2021-07-11,Bắc Ninh,7,Tối
+2021-07-11,Đà Nẵng,6,Tối
+2021-07-11,Bắc Giang,4,Tối
+2021-07-11,Sóc Trăng,3,Tối
+2021-07-11,Trà Vinh,2,Tối
+2021-07-11,Ninh Thuận,2,Tối
+2021-07-11,Quảng Ngãi,2,Tối
+2021-07-11,Lâm Đồng,1,Tối
+2021-07-11,Bình Định,1,Tối
+2021-07-11,Cần Thơ,1,Tối
+2021-07-11,Hà Nội,1,Tối
+2021-07-12,Vĩnh Long,2,Sáng
+2021-07-12,An Giang,1,Sáng
+2021-07-12,TP. Hồ Chí Minh,544,Sáng
+2021-07-12,Tiền Giang,43,Sáng
+2021-07-12,Khánh Hoà,27,Sáng
+2021-07-12,Vĩnh Long,26,Sáng
+2021-07-12,An Giang,8,Sáng
+2021-07-12,Bình Phước,5,Sáng
+2021-07-12,Phú Yên,4,Sáng
+2021-07-12,Huế,1,Sáng
+2021-07-12,Nghệ An,1,Sáng
+2021-07-12,Tây Ninh,5,Trưa
+2021-07-12,Hải Phòng,1,Trưa
+2021-07-12,Hoà Bình,1,Trưa
+2021-07-12,TP. Hồ Chí Minh,879,Trưa
+2021-07-12,Đồng Nai,82,Trưa
+2021-07-12,Tiền Giang,49,Trưa
+2021-07-12,Đồng Tháp,38,Trưa
+2021-07-12,Hà Nội,26,Trưa
+2021-07-12,Phú Yên,9,Trưa
+2021-07-12,Bắc Giang,7,Trưa
+2021-07-12,Hưng Yên,7,Trưa
+2021-07-12,Tây Ninh,3,Trưa
+2021-07-12,Bạc Liêu,2,Trưa
+2021-07-12,Bình Phước,1,Trưa
+2021-07-12,Sóc Trăng,1,Trưa
+2021-07-12,Vĩnh Phúc,1,Trưa
+2021-07-12,TP. Hồ Chí Minh,341,Tối
+2021-07-12,Bình Dương,128,Tối
+2021-07-12,Khánh Hòa,31,Tối
+2021-07-12,Tiền Giang,26,Tối
+2021-07-12,Phú Yên,17,Tối
+2021-07-12,Đà Nẵng,14,Tối
+2021-07-12,Trà Vinh,8,Tối
+2021-07-12,Hậu Giang,8,Tối
+2021-07-12,Quảng Ngãi,7,Tối
+2021-07-12,Sóc Trăng,4,Tối
+2021-07-12,Bắc Ninh,4,Tối
+2021-07-12,An Giang,3,Tối
+2021-07-12,Hà Nội,3,Tối
+2021-07-12,Thanh Hóa,2,Tối
+2021-07-12,Đồng Tháp,2,Tối
+2021-07-12,Nam Định,2,Tối
+2021-07-12,Bình Phước,2,Tối
+2021-07-12,Đắk Nông,1,Tối
+2021-07-13,TP. Hồ Chí Minh,365,Sáng
+2021-07-13,Long An,52,Sáng
+2021-07-13,Vĩnh Long,23,Sáng
+2021-07-13,Đồng Nai,12,Sáng
+2021-07-13,Phú Yên,7,Sáng
+2021-07-13,Tây Ninh,5,Sáng
+2021-07-13,Hà Nội,1,Sáng
+2021-07-13,TP. Hồ Chí Minh,886,Trưa
+2021-07-13,Long An,29,Trưa
+2021-07-13,Bà Rịa – Vũng Tàu,27,Trưa
+2021-07-13,Đồng Tháp,12,Trưa
+2021-07-13,Bến Tre,11,Trưa
+2021-07-13,Phú Yên,4,Trưa
+2021-07-13,Quảng Ngãi,2,Trưa
+2021-07-13,Bình Thuận,2,Trưa
+2021-07-13,Bắc Ninh,2,Trưa
+2021-07-13,Nam Định,1,Trưa
+2021-07-13,Nghệ An,1,Trưa
+2021-07-13,Bắc Giang,1,Trưa
+2021-07-13,Hà Nội,1,Trưa
+2021-07-13,Lào Cai,1,Trưa
+2021-07-13,Bình Phước,1,Trưa
+2021-07-13,Thanh Hóa,1,Trưa
+2021-07-13,TP. Hồ Chí Minh,546,Tối
+2021-07-13,Bình Dương,186,Tối
+2021-07-13,Long An,49,Tối
+2021-07-13,Đồng Tháp,19,Tối
+2021-07-13,Phú Yên,15,Tối
+2021-07-13,Hưng Yên,8,Tối
+2021-07-13,Hà Nội,6,Tối
+2021-07-13,Cần Thơ,5,Tối
+2021-07-13,An Giang,4,Tối
+2021-07-13,Đà Nẵng,4,Tối
+2021-07-13,Trà Vinh,3,Tối
+2021-07-13,Kiên Giang,3,Tối
+2021-07-13,Bắc Giang,1,Tối
+2021-07-13,TP. Hồ Chí Minh,546,Tối
+2021-07-13,Bình Dương,186,Tối
+2021-07-13,Long An,49,Tối
+2021-07-13,Đồng Tháp,19,Tối
+2021-07-13,Phú Yên,15,Tối
+2021-07-13,Hưng Yên,8,Tối
+2021-07-13,Hà Nội,6,Tối
+2021-07-13,Cần Thơ,5,Tối
+2021-07-13,An Giang,4,Tối
+2021-07-13,Đà Nẵng,4,Tối
+2021-07-13,Trà Vinh,3,Tối
+2021-07-13,Kiên Giang,3,Tối
+2021-07-13,Bắc Giang,1,Tối
+2021-07-14,TP. Hồ Chí Minh,666,Sáng
+2021-07-14,Đồng Nai,80,Sáng
+2021-07-14,Khánh Hoà,44,Sáng
+2021-07-14,Bến Tre,43,Sáng
+2021-07-14,Bà Rịa – Vũng Tàu,19,Sáng
+2021-07-14,Phú Yên,18,Sáng
+2021-07-14,Vĩnh Long,17,Sáng
+2021-07-14,Ninh Thuận,4,Sáng
+2021-07-14,Tây Ninh,4,Sáng
+2021-07-14,Kiên Giang,2,Sáng
+2021-07-14,Huế,2,Sáng
+2021-07-14,An Giang,2,Sáng
+2021-07-14,Bắc Ninh,2,Sáng
+2021-07-14,Sóc Trăng,1,Sáng
+2021-07-14,Bình Định,1,Sáng
+2021-07-14,TP. Hồ Chí Minh,971,Trưa
+2021-07-14,Tiền Giang,115,Trưa
+2021-07-14,Đồng Tháp,91,Trưa
+2021-07-14,Phú Yên,8,Trưa
+2021-07-14,Bến Tre,3,Trưa
+2021-07-14,Bắc Giang,2,Trưa
+2021-07-14,Huế,1,Trưa
+2021-07-14,Vĩnh Phúc,1,Trưa
+2021-07-14,Lào Cai,1,Trưa
+2021-07-14,Lâm Đồng,1,Trưa
+2021-07-14,Nghệ An,1,Trưa
+2021-07-14,Hà Nội,1,Trưa
+2021-07-14,Thanh Hóa,3,Tối
+2021-07-14,Quảng Nam,2,Tối
+2021-07-14,Hà Nội,1,Tối
+2021-07-14,TP. Hồ Chí Minh,592,Tối
+2021-07-14,Bình Dương,73,Tối
+2021-07-14,Đồng Tháp,42,Tối
+2021-07-14,Đồng Nai,38,Tối
+2021-07-14,Đà Nẵng,15,Tối
+2021-07-14,Sóc Trăng,12,Tối
+2021-07-14,Bình Thuận,9,Tối
+2021-07-14,Kiên Giang,9,Tối
+2021-07-14,Cần Thơ,8,Tối
+2021-07-14,Phú Yên,6,Tối
+2021-07-14,Hà Nội,4,Tối
+2021-07-14,Quảng Ngãi,4,Tối
+2021-07-14,Nghệ An,3,Tối
+2021-07-14,Trà Vinh,2,Tối
+2021-07-14,Hà Tĩnh,1,Tối
+2021-07-14,Cà Mau,1,Tối
+2021-07-14,Bắc Giang,1,Tối
+2021-07-14,Bắc Ninh,1,Tối
+2021-07-14,Lạng Sơn,1,Tối
+2021-07-14,Bình Phước,1,Tối
+2021-07-15,An Giang,2,Sáng
+2021-07-15,Ninh Bình,1,Sáng
+2021-07-15,Bà Rịa - Vũng Tàu,1,Sáng
+2021-07-15,TP. Hồ Chí Minh,603,Sáng
+2021-07-15,Đồng Nai,72,Sáng
+2021-07-15,Đồng Tháp,36,Sáng
+2021-07-15,Phú Yên,18,Sáng
+2021-07-15,Khánh Hòa,18,Sáng
+2021-07-15,Bà Rịa - Vũng Tàu,17,Sáng
+2021-07-15,Hà Nội,11,Sáng
+2021-07-15,Hưng Yên,10,Sáng
+2021-07-15,An Giang,8,Sáng
+2021-07-15,Ninh Thuận,7,Sáng
+2021-07-15,Đắk Nông,1,Sáng
+2021-07-15,Thanh Hóa,19,Tối
+2021-07-15,HCM,10,Tối
+2021-07-15,Hà Nội,2,Tối
+2021-07-15,Quảng Nam,1,Tối
+2021-07-15,Bình Định,1,Tối
+2021-07-15,TP. Hồ Chí Minh,1.399,Tối
+2021-07-15,Bình Dương,122,Tối
+2021-07-15,Đồng Tháp,63,Tối
+2021-07-15,Đồng Nai,60,Tối
+2021-07-15,Long An,41,Tối
+2021-07-15,Đà Nẵng,33,Tối
+2021-07-15,Bến Tre,30,Tối
+2021-07-15,Phú Yên,30,Tối
+2021-07-15,Vĩnh Long,17,Tối
+2021-07-15,Bình Thuận,17,Tối
+2021-07-15,Bình Phước,13,Tối
+2021-07-15,Hưng Yên,12,Tối
+2021-07-15,Cần Thơ,11,Tối
+2021-07-15,Ninh Thuận,10,Tối
+2021-07-15,Hà Nội,7,Tối
+2021-07-15,Sóc Trăng,4,Tối
+2021-07-15,Quảng Ngãi,4,Tối
+2021-07-15,Khánh Hòa,4,Tối
+2021-07-15,Bắc Ninh,3,Tối
+2021-07-15,Trà Vinh,3,Tối
+2021-07-15,Bình Định,1,Tối
+2021-07-15,Cà Mau,1,Tối
+2021-07-15,Vĩnh Phúc,1,Tối
+2021-07-15,Lâm Đồng,1,Tối
+2021-07-15,Đắk Lắk,1,Tối
+2021-07-15,Bắc Giang,1,Tối
