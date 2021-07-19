@@ -31,5 +31,16 @@ Crawler trên sẽ tạo ra file ![crwled.csv](../crawled.csv). File này ghi nh
 4. `datetime` lưu phần ngày giờ thông báo trong `timeline-head`
 5. `url` lưu đường link đến trang chứa thông báo đã crawl, dùng khi cần double check
 
+## Parse crawled.csv
 
+Dựa trên regex pattern ở phần đầu, có thể parse tự động file crawled.csv để tạo ra file `domestic.csv` chứa toàn bộ thông tin về số ca mắc mới của mỗi tỉnh trong mỗi thông báo. 
+File `domestic.csv` này sau đó có thể được paste vào GSheet để sau đó dùng pivot table tổng hợp lại thành tổng số ca nhiễm mỗi ngày của mỗi tỉnh. 
+Có 03 trường hợp đặc biệt từ file crawled.csv cần phải paste bằng tay vào GSheet vì file `domestic.csv` không chứa hết là các thông báo đặc biệt khi tất cả số ca mắc nằm ở cùng một tỉnh thì Bộ Y tế sẽ có cách viết thông báo hơi khác:
+```
+2021-06-09 12:48:00 Ghi nhận trong nước:
+2021-05-10 12:00:00 - 31 ca mắc ghi nhận trong nước tại:
+2021-05-07 06:05:00 Ghi nhận trong nước tại Thanh Hoá. Cụ thể: Bệnh nhân nam, 42 tuổi, địa chỉ tại thành phố Thanh Hóa, tỉnh Thanh Hóa. Bệnh nhân là F1 của chuyên gia Trung Quốc (nhập cảnh
+2021-05-06 06:17:00 Ghi nhận trong nước tại Bệnh viện Bệnh Nhiệt đới Trung ương cơ sở Đông Anh, là các bệnh nhân đang điều trị tại bệnh viện.
+```
 
+Ngoài ra GSheet cũng cần được cleaning vì có nhiều tên tỉnh được viết ở nhiều dạng khác nhau. Ví dụ như tổng cộng bộ có 7 cách viết tên địa danh `TP. Hồ Chí Minh`
